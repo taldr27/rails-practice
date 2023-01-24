@@ -1,24 +1,39 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails Stories practice
 
-Things you may want to cover:
+> I created this repository to practice my new adquired skills using ruby on rails creating a stories page I didn't use much styling, this project is just about functionality.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby
+- Rails
+- HTML
+- CSS
 
-* Configuration
+## Getting Started
 
-* Database creation
+### Usage
+- bundle install
+- rails server
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Author1**
 
-* Services (job queues, cache servers, search engines, etc.)
+- GitHub: [@taldr27](https://github.com/taldr27)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+
