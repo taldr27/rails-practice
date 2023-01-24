@@ -1,0 +1,33 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.main {
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jo_7_I1dOqk-HzXSXMGWOmfiO9EXuVaD0jmiC81bFNALil0KtxjmJLkms8XDxeN2vjg&usqp=CAU") no-repeat center center;
+    background-size: cover;
+    height: 30em;
+}
+
+.main h1,
+.about-main h1 {
+    color: #fff;
+    font-size: 4em;
+    text-align: center;
+    margin-bottom: 3em;
+    font-weight: 100;    
+}
+
+.secondary {
+    background: url("https://img.freepik.com/free-photo/aesthetic-dark-wallpaper-background-neon-light_53876-128291.jpg?w=2000") no-repeat center center;
+    background-size: cover;
+    height: 30em;
+}
+
+.about-main {
+    background: url("https://images.ctfassets.net/hrltx12pl8hq/3Z1N8LpxtXNQhBD5EnIg8X/975e2497dc598bb64fde390592ae1133/spring-images-min.jpg?fit=fill&w=480&h=270") no-repeat center center;
+    background-size: cover;
+    height: 30em;
+}
